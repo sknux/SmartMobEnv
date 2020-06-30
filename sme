@@ -67,11 +67,6 @@ BURP() {
         curl -s http://$IP:$PORT/cert -o cacert.der && openssl x509 -inform DER -in cacert.der -out cacert.pem && openssl x509 -inform PEM -subject_hash_old -in cacert.pem |head -1 > output && for n in $(cat output);do mv cacert.pem $n.0;done && rm -rf output && adb kill-server && adb connect $ipdevice && adb root && adb remount && chmod 644 9a5ba575.0 && adb push 9a5ba575.0 /sdcard/ && adb shell mv /sdcard/9a5ba575.0 /system/etc/security/cacerts && adb shell chmod 644 /system/etc/security/cacerts/9a5ba575.0
 }
 
-
-adbconnect(){
-	adb connect $ipdevice
-}
-
 FRIDA() {
         echo "Frida Install: "
 	adb connect $ipdevice
