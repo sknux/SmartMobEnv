@@ -6,7 +6,7 @@ echo "Version: 1.0"
 usage(){
 echo "MadeBy: SK ~ (Sh4d0wKnuckl3s)"
 echo " "
-echo "Thank to: alacerda, hack'n'roll academy "
+echo "Thank to: alacerda, hack'n'roll academy, gildasiojunior "
 echo " "
 echo "This tool was made to try to help with the hassle of installing the entire environment for pentest mobile,
 enjoy and give me opinions for improvements. Feel free to make changes."
