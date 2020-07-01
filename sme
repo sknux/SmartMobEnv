@@ -19,7 +19,7 @@ then
         echo
 else
         echo " "
-	echo "Installing figlet... After execute the script again!"
+	echo "Installing figlet... Then run the script again!"
         echo " "
         sudo apt install figlet -y
 fi
