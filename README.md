@@ -22,7 +22,7 @@ alacerda
 git clone https://github.com/Sh4d0wKnuckl3s/SmartMobEnv/SmartMobEnv.git
 <br>cd SmartMobEnv
 <br>chmod +x sme
-./sme or ./sme -h
+<br>./sme or ./sme -h
 
 # Example:
 ./sme -I ip-device-android -i ip-burpsuite -p port-burpsuite -A
