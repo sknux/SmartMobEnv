@@ -8,4 +8,4 @@ Use the -h option to see the other options the tool has and after that you will 
 Features:
 Burp Suite, Frida, Drozer, Mobsf
 
-Full install: ./sme -I <ip-device-android> -i <ip-burpsuite> -p <port-burpsuite> -A
+Full install: ./sme -I ip-device-android -i ip-burpsuite -p port-burpsuite -A
