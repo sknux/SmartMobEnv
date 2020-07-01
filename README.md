@@ -14,7 +14,7 @@ alacerda | Hack N' Roll Academy => https://www.youtube.com/channel/UCcYYP7JizTd2
 
 # Install
 git clone https://github.com/Sh4d0wKnuckl3s/SmartMobEnv/SmartMobEnv.git
-cd SmartMobEnv
+<br>cd SmartMobEnv
 chmod +x sme
 ./sme or ./sme -h
 
