@@ -5,9 +5,15 @@ Use the -h option to see the other options the tool has and after that you will 
 
 # Initial requires:
 Genymotion/Android Studio with adb
+Burp Suite
+
+# Features:
+Burp Suite cacert, Frida, Drozer, Mobsf
 
 # Example:
 ./sme -I ip-device-android -i ip-burpsuite -p port-burpsuite -A
 
-# Features:
-Burp Suite cacert, Frida, Drozer, Mobsf
+# Thank to
+alacerda
+Hack N' Roll Academy => https://www.youtube.com/channel/UCcYYP7JizTd24W9Mr7FIhxw
+gildasiojunior
