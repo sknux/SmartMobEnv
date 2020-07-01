@@ -12,5 +12,11 @@ Burp Suite cacert, Frida (virtualenv), Drozer, Mobsf
 # Thank to
 alacerda | Hack N' Roll Academy => https://www.youtube.com/channel/UCcYYP7JizTd24W9Mr7FIhxw | gildasiojunior
 
+# Install
+git clone https://github.com/Sh4d0wKnuckl3s/SmartMobEnv/SmartMobEnv.git
+cd SmartMobEnv
+chmod +x sme
+./sme or ./sme -h
+
 # Example:
 ./sme -I ip-device-android -i ip-burpsuite -p port-burpsuite -A
