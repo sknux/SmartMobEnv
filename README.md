@@ -19,7 +19,7 @@ alacerda
 <br>gildasiojunior
 
 # Install
-git clone https://github.com/Sh4d0wKnuckl3s/SmartMobEnv/SmartMobEnv.git
+git clone https://github.com/Sh4d0wKnuckl3s/SmartMobEnv.git
 <br>cd SmartMobEnv
 <br>chmod +x sme
 <br>./sme or ./sme -h
