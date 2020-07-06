@@ -24,5 +24,11 @@ git clone https://github.com/Sh4d0wKnuckl3s/SmartMobEnv.git
 <br>chmod +x sme
 <br>./sme or ./sme -h
 
+# Tested On
+Ubuntu
+
+# To Do
+Improve functionality for kali linux
+
 # Example:
 ./sme -I ip-device-android -i ip-burpsuite -p port-burpsuite -A
