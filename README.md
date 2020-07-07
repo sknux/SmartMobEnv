@@ -29,6 +29,7 @@ Ubuntu
 
 # To Do
 Improve functionality for kali linux
+Genymotion ARM Translation
 
 # Example:
 ./sme -I ip-device-android -i ip-burpsuite -p port-burpsuite -A
