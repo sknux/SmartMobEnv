@@ -30,6 +30,8 @@ Ubuntu
 # To Do
 Improve functionality for kali linux
 <br>Genymotion ARM Translation
+<br>Qark
+<br>RMS-Runtime-Mobile-Security
 
 # Example:
 ./sme -I ip-device-android -i ip-burpsuite -p port-burpsuite -A
